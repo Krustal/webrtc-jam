@@ -7,6 +7,10 @@ This project is an example for setting up a WEBRTC project using the JAM stack (
 
 This is a project template for [Svelte](https://svelte.dev) apps. 
 
+## References
+
+https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/
+
 ## SvelteKit
 
 If you are looking for a SvelteKit example, please use https://github.com/gitpod-io/sveltekit-example.
