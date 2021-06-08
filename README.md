@@ -1,5 +1,7 @@
 
-# svelte app with Gitpod setup
+# WebRTC with JAM Stack
+
+This project is an example for setting up a WEBRTC project using the JAM stack (specifically Netlify)
 
 [![Gitpod ready-to-code](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 
